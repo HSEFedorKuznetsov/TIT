@@ -1,14 +1,5 @@
-<!DOCTYPE html>
 <html>
  <head>
-  <meta charset="utf-8">
-  <title>Линия</title>
-  <style>
-   .line {
-    border-bottom: 1px solid #f00; /* Параметры линии */
-   }
-  </style>
- </head>
  <body>
 <h1>Арт-практика</h1>
   <div class="line"></div>
