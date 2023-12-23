@@ -1,4 +1,5 @@
-<head>
+<html>
+  <head>
   <title>TIT</title>
   <style>
    .line {
